@@ -83,4 +83,4 @@ We would like to see a **non-trivial** pull request you have made to a public op
 
 #### Thanks for your time! We look forward to hearing from you!
 
-- The [Everly Health iOS team](http://github.com/Everlywell)
+- The [Everly Health Mobile team](http://github.com/Everlywell)
