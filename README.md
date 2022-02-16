@@ -66,7 +66,7 @@ The following requirements should be met:
 
 We would be happy if you would submit a project you already have (for instance, a demo project for another company). Still, the project **must**:
 
-- Use Swift 0.60 or above.
+- Use React Native 0.60 or above.
 - Have at least two distinct network calls.
 - Parse the network response and present the information to the user.
 - Have some sort of persistence mechanism.
